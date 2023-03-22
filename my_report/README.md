@@ -1,9 +1,9 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Digital-Storytelling-Individual-Assignment: xxx
+### First and Last Name: Andreas Goulasis
+### University Registration Number: dpsd18024
+### GitHub Personal Profile: https://github.com/AndreasGoula
+### Digital-Storytelling-Individual-Assignment: https://github.com/AndreasGoula/Digital-Storytelling-Individual-Assignment
 
 # Introduction
 
